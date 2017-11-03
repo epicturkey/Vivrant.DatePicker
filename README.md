@@ -8,7 +8,7 @@ BASED ON "Pure CSS DatePicker" by Mahesh: https://codepen.io/maheshambure21/pen/
 **11-03-2017: Initial Release**
 
 # Limitations:
-    DateMask and Calendar popups DO NOT work in Simulator! (Simulator does not appear to support webkit calendar)
+    Input-Mask and Calendar popups DO NOT work in Simulator! (Simulator does not appear to support webkit calendar)
 
 # Usage:
 
