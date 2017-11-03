@@ -13,7 +13,7 @@ Tested against CSHTML5 BETA 12.4
 # Limitations:
 - Input-Mask and Calendar popups DO NOT work in Simulator! (Simulator does not appear to support webkit calendar)
 - Works in EDGE and CHROME - does not work in Firefox* or IE (Firefox* and IE have not yet implemented the -webkit-calendarpicker appearance)
-* Firefox is working to implement -webkit-calendarpicker, but it is currently only supported in the current Firefox BETA, available here: https://www.mozilla.org/en-US/firefox/quantum/, and you have to enable the Firefox "Experimental Feature" dom.forms.datetime=true. For more information on Mozilla Firefox's adaption of the -webkit-datepicker, please see Firefox Bug 825294 https://bugzilla.mozilla.org/show_bug.cgi?id=825294.
+* Firefox is working to implement -webkit-calendarpicker, but it is currently only supported in the current Firefox BETA, available here: https://www.mozilla.org/en-US/firefox/quantum/, and you have to enable the Firefox "Experimental Feature" **dom.forms.datetime=true**. For more information on Mozilla Firefox's adaption of the -webkit-datepicker, please see Firefox Bug 825294 https://bugzilla.mozilla.org/show_bug.cgi?id=825294.
 
 # Usage:
 
