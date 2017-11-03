@@ -18,7 +18,7 @@ BASED ON "Pure CSS DatePicker" by Mahesh: https://codepen.io/maheshambure21/pen/
  
  - Add a XAML Namespace for the control: 
  
-    `xmlns:control="clr-namespace:Vivrant.Controls"`
+    `xmlns:control="clr-namespace:Vivrant.Controls;assembly=Vivrant.DatePicker`
     
  - (OPTIONAL) Use the included DatePresenter class for out-of-the-box MVVM support: 
  
