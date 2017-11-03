@@ -1,0 +1,40 @@
+c:\users\jturk\documents\visual studio 2017\Projects\Vivrant.Controls\Vivrant.DatePicker.Sample\bin\Debug\Vivrant.DatePicker.Sample.dll
+c:\users\jturk\documents\visual studio 2017\Projects\Vivrant.Controls\Vivrant.DatePicker.Sample\bin\Debug\Vivrant.DatePicker.Sample.pdb
+c:\users\jturk\documents\visual studio 2017\Projects\Vivrant.Controls\Vivrant.DatePicker.Sample\bin\Debug\CSharpXamlForHtml5.dll
+c:\users\jturk\documents\visual studio 2017\Projects\Vivrant.Controls\Vivrant.DatePicker.Sample\bin\Debug\CSharpXamlForHtml5.System.dll.dll
+c:\users\jturk\documents\visual studio 2017\Projects\Vivrant.Controls\Vivrant.DatePicker.Sample\bin\Debug\CSharpXamlForHtml5.System.Runtime.Serialization.dll.dll
+c:\users\jturk\documents\visual studio 2017\Projects\Vivrant.Controls\Vivrant.DatePicker.Sample\bin\Debug\CSharpXamlForHtml5.System.ServiceModel.dll.dll
+c:\users\jturk\documents\visual studio 2017\Projects\Vivrant.Controls\Vivrant.DatePicker.Sample\bin\Debug\CSharpXamlForHtml5.System.Xaml.dll.dll
+c:\users\jturk\documents\visual studio 2017\Projects\Vivrant.Controls\Vivrant.DatePicker.Sample\bin\Debug\CSharpXamlForHtml5.System.Xml.dll.dll
+c:\users\jturk\documents\visual studio 2017\Projects\Vivrant.Controls\Vivrant.DatePicker.Sample\bin\Debug\JSIL.Meta.dll
+c:\users\jturk\documents\visual studio 2017\Projects\Vivrant.Controls\Vivrant.DatePicker.Sample\bin\Debug\Vivrant.DatePicker.dll
+c:\users\jturk\documents\visual studio 2017\Projects\Vivrant.Controls\Vivrant.DatePicker.Sample\bin\Debug\Vivrant.DatePicker.pdb
+c:\users\jturk\documents\visual studio 2017\Projects\Vivrant.Controls\Vivrant.DatePicker.Sample\bin\Debug\CSharpXamlForHtml5.System.dll.xml
+c:\users\jturk\documents\visual studio 2017\Projects\Vivrant.Controls\Vivrant.DatePicker.Sample\bin\Debug\CSharpXamlForHtml5.System.Runtime.Serialization.dll.xml
+c:\users\jturk\documents\visual studio 2017\Projects\Vivrant.Controls\Vivrant.DatePicker.Sample\bin\Debug\CSharpXamlForHtml5.System.ServiceModel.dll.xml
+c:\users\jturk\documents\visual studio 2017\Projects\Vivrant.Controls\Vivrant.DatePicker.Sample\bin\Debug\CSharpXamlForHtml5.System.Xaml.dll.xml
+c:\users\jturk\documents\visual studio 2017\Projects\Vivrant.Controls\Vivrant.DatePicker.Sample\bin\Debug\CSharpXamlForHtml5.System.Xml.dll.xml
+c:\users\jturk\documents\visual studio 2017\Projects\Vivrant.Controls\Vivrant.DatePicker.Sample\bin\Debug\CSharpXamlForHtml5.xml
+c:\users\jturk\documents\visual studio 2017\Projects\Vivrant.Controls\Vivrant.DatePicker.Sample\obj\Debug\Vivrant.DatePicker.Sample.csprojResolveAssemblyReference.cache
+c:\users\jturk\documents\visual studio 2017\Projects\Vivrant.Controls\Vivrant.DatePicker.Sample\obj\Debug\Vivrant.DatePicker.Sample.dll
+c:\users\jturk\documents\visual studio 2017\Projects\Vivrant.Controls\Vivrant.DatePicker.Sample\obj\Debug\Vivrant.DatePicker.Sample.pdb
+C:\dev\Vivrant.DatePicker.Sample\bin\Debug\Vivrant.DatePicker.Sample.dll
+C:\dev\Vivrant.DatePicker.Sample\bin\Debug\Vivrant.DatePicker.Sample.pdb
+C:\dev\Vivrant.DatePicker.Sample\bin\Debug\CSharpXamlForHtml5.dll
+C:\dev\Vivrant.DatePicker.Sample\bin\Debug\CSharpXamlForHtml5.System.dll.dll
+C:\dev\Vivrant.DatePicker.Sample\bin\Debug\CSharpXamlForHtml5.System.Runtime.Serialization.dll.dll
+C:\dev\Vivrant.DatePicker.Sample\bin\Debug\CSharpXamlForHtml5.System.ServiceModel.dll.dll
+C:\dev\Vivrant.DatePicker.Sample\bin\Debug\CSharpXamlForHtml5.System.Xaml.dll.dll
+C:\dev\Vivrant.DatePicker.Sample\bin\Debug\CSharpXamlForHtml5.System.Xml.dll.dll
+C:\dev\Vivrant.DatePicker.Sample\bin\Debug\JSIL.Meta.dll
+C:\dev\Vivrant.DatePicker.Sample\bin\Debug\Vivrant.DatePicker.dll
+C:\dev\Vivrant.DatePicker.Sample\bin\Debug\Vivrant.DatePicker.pdb
+C:\dev\Vivrant.DatePicker.Sample\bin\Debug\CSharpXamlForHtml5.System.dll.xml
+C:\dev\Vivrant.DatePicker.Sample\bin\Debug\CSharpXamlForHtml5.System.Runtime.Serialization.dll.xml
+C:\dev\Vivrant.DatePicker.Sample\bin\Debug\CSharpXamlForHtml5.System.ServiceModel.dll.xml
+C:\dev\Vivrant.DatePicker.Sample\bin\Debug\CSharpXamlForHtml5.System.Xaml.dll.xml
+C:\dev\Vivrant.DatePicker.Sample\bin\Debug\CSharpXamlForHtml5.System.Xml.dll.xml
+C:\dev\Vivrant.DatePicker.Sample\bin\Debug\CSharpXamlForHtml5.xml
+C:\dev\Vivrant.DatePicker.Sample\obj\Debug\Vivrant.DatePicker.Sample.csprojResolveAssemblyReference.cache
+C:\dev\Vivrant.DatePicker.Sample\obj\Debug\Vivrant.DatePicker.Sample.dll
+C:\dev\Vivrant.DatePicker.Sample\obj\Debug\Vivrant.DatePicker.Sample.pdb

@@ -1,0 +1,20 @@
+﻿<Page
+    x:Class="Vivrant.DatePicker.Sample.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Vivrant.DatePicker.Sample"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:presenter="clr-namespace:Vivrant.Presenter;assembly=Vivrant.DatePicker"
+    xmlns:control="clr-namespace:Vivrant.Controls"
+    mc:Ignorable="d">
+    <control:DatePicker
+        Margin="16"
+        VerticalAlignment="Top"
+        HorizontalAlignment="Center"
+        DateValue="{Binding Path=Date, Mode=TwoWay}">
+        <control:DatePicker.DataContext>
+            <presenter:DatePresenter />
+        </control:DatePicker.DataContext>
+    </control:DatePicker>
+</Page>
