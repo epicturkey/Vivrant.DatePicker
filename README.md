@@ -41,3 +41,18 @@ Tested against CSHTML5 BETA 12.4
         <presenter:DatePresenter />
     </control:DatePicker.DataContext>
 </control:DatePicker>`
+
+# Browser Samples
+Google CHROME Desktop & OPERA Desktop:
+![chrome opera 1](https://image.ibb.co/ndn0Cb/Vivrant_Date_Picker.png)
+![chrome opera 2](https://image.ibb.co/i6XaCb/Vivrant_Date_Picker2.png)
+
+Microsoft Edge:
+![edge 1](https://image.ibb.co/jfFthb/Vivrant_Date_Picker_Edge.png)
+
+Mozilla Firefox NIGHTLY BETA:
+![ff 1](https://image.ibb.co/iiNENb/Fire_Fox_NIGHTLY.png)
+![ff 2](https://image.ibb.co/dJZHaw/Fire_Fox_NIGHTLY2.png)
+
+Chrome on Android:
+![chrome android 1](https://image.ibb.co/jKMr2b/android.png)
